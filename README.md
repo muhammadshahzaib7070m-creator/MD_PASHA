@@ -1,109 +1,140 @@
 
-<!-- ========================================= -->
-<!-- MUHAMMAD SHAHZAIB - GITHUB PROFILE README -->
-<!-- ========================================= -->
+<!-- ================================================= -->
+<!-- MUHAMMAD SHAHZAIB | MONSTER CYBERPUNK PROFILE -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A2D,50:123B5D,100:00C9FF&height=230&section=header&text=Muhammad%20Shahzaib&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Pakistan&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,30:10002B,65:240046,100:00E5FF&text=MUHAMMAD%20SHAHZAIB&fontSize=45&fontColor=00F5FF&stroke=7B2CFF&strokeWidth=2&desc=THE%20FUTURE%20IS%20BUILT%20WITH%20CODE&descSize=15&descColor=FFFFFF&descAlignY=72&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;HTML+%7C+CSS+%7C+Python;Learning+Every+Day;Building+My+Developer+Journey;Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+WORLD;HTML+%7C+CSS+%7C+PYTHON;CREATING+THE+FUTURE+ONE+LINE+AT+A+TIME;LEARN+%E2%80%A2+CODE+%E2%80%A2+DOMINATE" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadshahzaib7070m-creator&label=PROFILE+VISITORS&color=00C9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadshahzaib7070m-creator&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS"/>
 
-<a href="https://github.com/muhammadshahzaib7070m-creator?tab=followers">
-<img src="https://img.shields.io/github/followers/muhammadshahzaib7070m-creator?label=Followers&style=for-the-badge&color=123B5D"/>
-</a>
+<img src="https://img.shields.io/github/followers/muhammadshahzaib7070m-creator?style=for-the-badge&logo=github&color=7B2CFF&labelColor=000000&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## 👋 ABOUT ME
+<div align="center">
 
-Hello! I'm **Muhammad Shahzaib**, an aspiring software developer from Pakistan 🇵🇰.
+# ⚡ WHO AM I?
 
-I'm passionate about programming, technology, and web development. I enjoy learning new skills, solving problems, and building projects that help me grow as a developer.
+### `> INITIALIZING DEVELOPER PROFILE...`
 
-- 💻 Learning HTML, CSS and Python.
-- 🌱 Improving my programming skills every day.
-- 🚀 Interested in web development and software development.
-- 🎯 Working towards becoming a professional developer.
-- 🤝 Open to collaboration and learning opportunities.
-- 📍 Pakistan 🇵🇰
+</div>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Muhammad Shahzaib"
+        self.country = "Pakistan 🇵🇰"
+        self.role = "Aspiring Software Developer"
+        self.skills = ["HTML", "CSS", "Python"]
+        self.interests = [
+            "Web Development",
+            "Programming",
+            "Technology"
+        ]
+        self.mindset = "Always Learning"
+
+    def mission(self):
+        return "Build. Learn. Innovate. Repeat."
+
+
+me = Developer()
+print(me.mission())
+```
 
 ---
 
-## 🛠️ TECH STACK
+## 👾 ABOUT THE DEVELOPER
+
+I'm **Muhammad Shahzaib**, an aspiring developer exploring the world of programming and technology.
+
+My mission is to transform ideas into digital experiences, develop practical projects, and continuously improve my coding skills.
+
+- ⚡ Learning HTML, CSS and Python.
+- 🧠 Developing problem-solving skills.
+- 🌐 Exploring web development.
+- 🚀 Building my developer portfolio.
+- 🤝 Open to collaboration and learning.
+- 🇵🇰 Based in Pakistan.
+
+---
+
+## 💀 TECH ARSENAL
 
 <div align="center">
 
-### Programming & Web Development
+### `PROGRAMMING LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" />
 
-### Development Tools
+### `DEVELOPER TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📚 CURRENT LEARNING GOALS
+## 🔥 CURRENT MISSION
 
-| Technology | Goal |
-|---|---|
-| HTML | Build structured websites |
-| CSS | Create responsive designs |
-| Python | Improve programming logic |
-| JavaScript | Learn interactive websites |
-| Git & GitHub | Manage projects professionally |
+```text
+[██████████] HTML Fundamentals
+[██████████] CSS Fundamentals
+[█████-----] Python Development
+[----------] JavaScript
+[----------] Advanced Web Development
+```
+
+*Visual roadmap, not measured skill percentages.*
 
 ---
 
-## 🚀 MY PROJECTS
+## 🚀 PROJECT COMMAND CENTER
 
 <div align="center">
 
 <a href="https://github.com/muhammadshahzaib7070m-creator?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ACCESS-MY%20REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
 </div>
 
-Explore my repositories to discover my projects, experiments, and learning journey.
-
-### Project Ideas
-
-- 🌐 Personal Portfolio Website — HTML & CSS
-- 🧮 Python Calculator — Python
-- 📝 To-Do List Website — HTML & CSS
-- 🎓 Student Management System — Python
-
-*These are project ideas until completed and uploaded.*
+Explore my repositories to discover my coding journey, experiments and projects.
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadshahzaib7070m-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071A2F&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadshahzaib7070m-creator&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=9D4EDD&text_color=FFFFFF&bg_color=000000"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshahzaib7070m-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=071A2F&title_color=00C9FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshahzaib7070m-creator&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=000000"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=muhammadshahzaib7070m-creator&theme=tokyonight&hide_border=true&background=071A2F&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=muhammadshahzaib7070m-creator&theme=transparent&hide_border=true&background=000000&ring=00F5FF&fire=9D4EDD&currStreakLabel=00F5FF"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -113,35 +144,32 @@ Explore my repositories to discover my projects, experiments, and learning journ
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadshahzaib7070m-creator&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadshahzaib7070m-creator&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌌 CONNECT TO MY NETWORK
 
 <div align="center">
 
 <a href="https://github.com/muhammadshahzaib7070m-creator">
-<img src="https://img.shields.io/badge/GitHub-Muhammad%20Shahzaib-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 💡 MY DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-### "Every expert was once a beginner."
-
-**Keep Learning • Keep Building • Keep Growing**
+```text
+CONNECTION STATUS: ONLINE
+LOCATION: PAKISTAN
+MISSION: BECOME A BETTER DEVELOPER
+NEXT LEVEL: IN PROGRESS
+```
 
 </div>
 
@@ -149,12 +177,16 @@ Explore my repositories to discover my projects, experiments, and learning journ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:123B5D,100:061A2D&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:240046,100:00E5FF&height=150&section=footer"/>
 
-**THANK YOU FOR VISITING MY PROFILE! 💙**
+# `GAME OVER? NEVER.`
 
-⭐ Feel free to explore my repositories and follow my journey.
+### ⚡ CODE THE FUTURE. BUILD YOUR LEGACY.
+
+**THANK YOU FOR ENTERING MY DIGITAL WORLD.**
 
 </div>
 
-<!-- END OF PROFILE README -->
+<!-- ================================================= -->
+<!-- END | MONSTER CYBERPUNK PROFILE -->
+<!-- ================================================= -->
